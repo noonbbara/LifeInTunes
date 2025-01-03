@@ -1,0 +1,13 @@
+package noonbbara.LifeInTunes;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class LifeInTunesApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
